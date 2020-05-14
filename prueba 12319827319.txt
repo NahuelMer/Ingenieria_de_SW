@@ -1,6 +1,10 @@
 asdwfasd 
 sdffsefsdvx
 
+<<<<<<< HEAD
 
 
 MODIFICADO
+=======
+modificado
+>>>>>>> master
